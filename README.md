@@ -1,7 +1,11 @@
 # Content
 Playlist for software developers
 
+## Info
 My personal rating - 🎵to 🎵🎵🎵🎵🎵
+
+## Motivation
+Great playlists that increase focus time. A great way to increase your motivation in the face of problems.
 
 
 ## Spotify URL
