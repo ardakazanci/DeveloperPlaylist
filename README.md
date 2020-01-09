@@ -3,7 +3,4 @@ Playlist for software developers
 
 ## Spotify URL
 
-
-
-
-[Test](https://github.com/joemccann/dillinger/blob/master/KUBERNETES.md)
+[🎵](https://open.spotify.com/playlist/26uYEVBt5ZdXYhASRHchKZ?si=0RMigVIESPaATkweZs0caw)
